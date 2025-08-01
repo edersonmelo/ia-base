@@ -1,0 +1,8 @@
+fastapi
+mlflow
+opencv-python
+pillow
+torch
+torchvision
+ultralytics
+uvicorn
