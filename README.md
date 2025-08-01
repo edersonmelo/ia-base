@@ -1,4 +1,4 @@
-# IA Advocate Base
+# IA Base
 
 Repositório guarda-chuva para meus projetos, tutoriais, artigos e minicursos sobre Inteligência Artificial e Machine Learning.
 
