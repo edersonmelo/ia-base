@@ -39,7 +39,18 @@ visao-computacional-em-producao/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/visao-computacional-em-producao.git
+git clone --filter=blob:none --no-checkout git@github.com:edersonmelo/ia-base.git
+cd ia-base
+
+# Ativa o modo sparse
+git sparse-checkout init --cone
+
+# Escolhe a pasta que quer baixar
+git sparse-checkout set visao-computacional-em-producao
+
+# Baixa só aquela pasta
+git checkout main
+
 cd visao-computacional-em-producao
 ```
 
@@ -90,7 +101,7 @@ Você poderá fazer deploy com Docker facilmente. Um `Dockerfile` e instruções
 
 ---
 
-## 📌 Próximos passos
+## 📌 Possibilidades(Próximos passos)
 
 - [ ] Adicionar testes automatizados
 - [ ] Criar pipeline de CI/CD
