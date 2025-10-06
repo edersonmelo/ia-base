@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+numpy
+mlflow
+joblib
+pydantic
+gunicorn
+python-multipart
+flake8
+pytest
+requests
