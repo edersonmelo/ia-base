@@ -55,5 +55,9 @@ Para habilitar push automático para Docker Hub configure os *Secrets*:
 - `DOCKERHUB_USERNAME`
 - `DOCKERHUB_TOKEN`
 
+## Versão Premium disponível!
+Template completo com MLflow, FastAPI e Docker.
+👉 Me chama para acesso ou mentoria personalizada.
+
 ## Autor
 Ederson Melo
