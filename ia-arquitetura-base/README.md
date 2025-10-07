@@ -57,6 +57,7 @@ Para habilitar push automático para Docker Hub configure os *Secrets*:
 
 ## Versão Premium disponível!
 Template completo com MLflow, FastAPI e Docker.
+
 👉 Me chama para acesso ou mentoria personalizada.
 
 ## Autor
